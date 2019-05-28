@@ -12,3 +12,10 @@ Modify Image.glsl shader file.
 
 #### Which library do you use?
 glfw, glew
+
+
+#### TODO
+1. add Texture.
+2. add all uniform variables.
+3. iChannel0~3 function.
+...
