@@ -1,4 +1,4 @@
-# shadertoy visual studio
+# Shadertoy visual studio
 Shadertoy viewer using c++ on visual studio 2017  
 This project is under development. so there is no function.  
 
